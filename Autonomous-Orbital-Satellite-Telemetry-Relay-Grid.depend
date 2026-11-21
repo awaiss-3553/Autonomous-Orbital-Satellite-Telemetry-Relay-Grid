@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1795279188 source:c:\users\user\downloads\autonomous-orbital-satellite-telemetry-relay-grid\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
